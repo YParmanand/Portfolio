@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>developer landing page</title>
+    <link rel="stylesheet" href="b.css">
+
+</head>
+
+<body>
+    <section class="hero_section">
+        <div class="small">
+            <nav>
+                <li>HOME</li>
+                <li>SERVICES</li>
+                <li>ABOUT ME</li>
+                <li>CONTACT US</li>
+            </nav>
+        </div>
+        <div class="text_container">
+            <h2> <span class="lg_text">Hi,</span>
+                I am Parmanand Yadav.
+            </h2>
+            <h1>
+                Your welcome with <i>IERTIAN</i>
+            </h1>
+            <img src="imgs/logo10.jpg">
+        </div>
+    </section>
+    <hr>
+    <section class="black_box">
+        <h2>Work ,I can do for <span>
+                YOU</span></h2>
+    </section>
+    <hr>
+    <section class="work">
+        <div class="grid_item">
+            <div class="card">
+                <div class="image_container">
+                    <img src="imgs/img4.jpg" alt="web developer">
+
+                </div>
+                <div class="card_container">
+                    <h3>web development</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis nesciunt voluptatum temporibus,
+                        officiis autem aspernatur possimus sequi dolorem doloribus laudantium sint ipsum consequatur?
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="grid_item">
+            <div class="card">
+                <div class="image_container">
+                    <img src="imgs/img8.jpg" alt="web developer">
+
+                </div>
+                <div class="card_container">
+                    <h3>App development</h3>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus excepturi vero quam porro quae
+                        magnam, libero cupiditate error mollitia nisi nihil nulla culpa ea.</p>
+                </div>
+            </div>
+        </div>
+        <div class="grid_item">
+            <div class="card">
+                <div class="image_container">
+                    <img src="imgs/img6.jpg" alt="web developer">
+
+                </div>
+                <div class="card_container">
+                    <h3>Ux design</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores cupiditate ad ratione
+                        necessitatibus voluptatibus ab quibusdam nostrum dolorum magni ea dolor quos quas sapiente, quae
+                        accusamus placeat, cumque commodi cum!</p>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+    <hr>
+    <section class="last">
+        <div class="contact_container">
+            <h1>Contact Me</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, officia quae sapiente quo voluptatem
+                repudiandae itaque quaerat delectus sint culpa saepe totam adipisci aliquam praesentium excepturi vel
+                necessitatibus eius cum!</p>
+        </div>
+        <div class="about_container">
+            <h1>About Me</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut delectus non omnis facilis optio. Enim velit
+                iure perferendis magnam dolore et dicta dolorem placeat cupiditate officia illum, nam sequi non?</p>
+        </div>
+    </section>
+    <footer>
+        <h3>copyright@ 2023 IERTIAN</h3>
+    </footer>
+</body>
+
+</html>
